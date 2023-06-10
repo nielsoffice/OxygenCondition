@@ -1,5 +1,5 @@
 # OxygenCondition
-Hide is AND Show is OR
+WP Oxygen Conditional UI
 
 <br />
 
